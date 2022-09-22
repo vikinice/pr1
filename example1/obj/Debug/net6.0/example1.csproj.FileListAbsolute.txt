@@ -1,0 +1,15 @@
+/home/eighth/Desktop/practic1/example1/bin/Debug/net6.0/example1
+/home/eighth/Desktop/practic1/example1/bin/Debug/net6.0/example1.deps.json
+/home/eighth/Desktop/practic1/example1/bin/Debug/net6.0/example1.runtimeconfig.json
+/home/eighth/Desktop/practic1/example1/bin/Debug/net6.0/example1.dll
+/home/eighth/Desktop/practic1/example1/bin/Debug/net6.0/ref/example1.dll
+/home/eighth/Desktop/practic1/example1/bin/Debug/net6.0/example1.pdb
+/home/eighth/Desktop/practic1/example1/obj/Debug/net6.0/example1.csproj.AssemblyReference.cache
+/home/eighth/Desktop/practic1/example1/obj/Debug/net6.0/example1.GeneratedMSBuildEditorConfig.editorconfig
+/home/eighth/Desktop/practic1/example1/obj/Debug/net6.0/example1.AssemblyInfoInputs.cache
+/home/eighth/Desktop/practic1/example1/obj/Debug/net6.0/example1.AssemblyInfo.cs
+/home/eighth/Desktop/practic1/example1/obj/Debug/net6.0/example1.csproj.CoreCompileInputs.cache
+/home/eighth/Desktop/practic1/example1/obj/Debug/net6.0/example1.dll
+/home/eighth/Desktop/practic1/example1/obj/Debug/net6.0/ref/example1.dll
+/home/eighth/Desktop/practic1/example1/obj/Debug/net6.0/example1.pdb
+/home/eighth/Desktop/practic1/example1/obj/Debug/net6.0/example1.genruntimeconfig.cache
